@@ -1,0 +1,14 @@
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\bin\Debug\ListayDatos.exe
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\bin\Debug\ListayDatos.pdb
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.csprojAssemblyReference.cache
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\MainWindow.g.cs
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\App.g.cs
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos_MarkupCompile.cache
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos_MarkupCompile.lref
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\MainWindow.baml
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.g.resources
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.Properties.Resources.resources
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.csproj.GenerateResource.cache
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.csproj.CoreCompileInputs.cache
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.exe
+C:\Users\DuendeX\source\repos\ListayDatos\ListayDatos\obj\Debug\ListayDatos.pdb
